@@ -1,4 +1,4 @@
-# Python-Api-Vacation and Weather Py Project
+# Vacation and Weather Py Project using Python-Api
 
 The Vacation and Weather Py Project is a Python project that leverages the citipy library and the OpenWeatherMap API to gather data on random cities. This data is then used to create a comprehensive DataFrame containing information such as Latitude, Longitude, Maximum Temperature, Current Humidity, Cloudiness, Wind Speed, and Date of recording for each city.
 
